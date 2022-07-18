@@ -1,0 +1,14 @@
+<div class="card rounded-5 mb-5 border border-secondary" style="width: 16rem; background-color: black;">
+    <img class="card-img-top" src='{{roupas.image}}'>
+    <div class="card-body">
+      <h5 class="card-title" style="color: white;">{{roupas.title}}</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">{{roupas.category}}</li>
+      <li class="list-group-item">{{roupas.price | currency}}</li>
+    </ul>
+    <div class="btn-group">
+        <button type="button" class="btn btn-sm btn-primary">Comprar</button>
+        <button type="button" class="btn btn-sm btn-outline-primary" style="background-color: white;">Detalhes</button>
+    </div>
+  </div>
