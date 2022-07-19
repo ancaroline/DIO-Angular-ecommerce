@@ -11,6 +11,7 @@ import { ProductListComponent } from './components/clothing-store-app/product-li
 import { ProductItemComponent } from './components/clothing-store-app/product-list/product-item/product-item.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ClothesService } from './components/clothing-store-app/product-list/product-list.component.service';
+import { LeftComponent } from './components/clothing-store-app/left/left.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { ClothesService } from './components/clothing-store-app/product-list/pro
     FiltersComponent,
     ProductListComponent,
     ProductItemComponent,
+    LeftComponent,
   ],
   imports: [
     BrowserModule,
