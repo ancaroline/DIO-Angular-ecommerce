@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/assets/readme/store.png">
+</p>
+
 # Ecommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
