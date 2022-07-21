@@ -1,3 +1,5 @@
+[Clique para ver a imagem do projeto](https://i.imgur.com/qcqEwCE.png)
+
 # Ecommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
